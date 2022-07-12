@@ -8,6 +8,8 @@
   <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" width="40" height ="40">
+  <img src="https://github.com/file-icons/icons/blob/master/svg/Common-Lisp.svg" width="40" height ="40">
 <div>
 
 ## Опыт работы.
