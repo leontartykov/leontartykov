@@ -1,7 +1,7 @@
 ## Hello, I'm Lev.
 ## Опыт разработки.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leontartykov&layout=compact&hide=tex,PLpgSQL,Makefile,QMake,MATLAB&theme=tokyonight)](https://github.com/leontartykov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leontartykov&layout=compact&hide=tex,PLpgSQL,Makefile,QMake,MATLAB&theme=tokyonight&langs_count=6)](https://github.com/leontartykov/github-readme-stats)
 
 
 <div>
