@@ -8,7 +8,7 @@
 <div>
 
 ## Опыт работы.
-[![My Skills](https://skillicons.dev/icons?i=qt,cmake,postgres,mysql,docker,redis,grafana,html,css,mysql,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,cmake,postgres,mysql,docker,redis,grafana,html,css,nginx)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leontartykov&layout=compact&hide=tex,PLpgSQL,Makefile,QMake,MATLAB&theme=tokyonight&langs_count=6)](https://github.com/leontartykov/github-readme-stats)
 
